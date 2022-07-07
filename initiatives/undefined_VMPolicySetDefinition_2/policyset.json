@@ -1,0 +1,29 @@
+{
+ "properties": {
+  "policyType": "Custom",
+  "metadata": {
+   "category": "Virtual Machine",
+   "createdBy": "cb59157c-4e6c-4d03-aacd-e449a329302e",
+   "createdOn": "2022-06-28T13:20:42.7766707Z",
+   "updatedBy": null,
+   "updatedOn": null
+  },
+  "policyDefinitions": [
+   {
+    "policyDefinitionReferenceId": "1432352172720569494",
+    "policyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/2835b622-407b-4114-9198-6f7064cbe0dc"
+   },
+   {
+    "policyDefinitionReferenceId": "5856395766942893692",
+    "policyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/c43e4a30-77cb-48ab-a4dd-93f175c63b57"
+   },
+   {
+    "policyDefinitionReferenceId": "14202804121404467572",
+    "policyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/fc4d8e41-e223-45ea-9bf5-eada37891d87"
+   }
+  ]
+ },
+ "id": "/subscriptions/07c3054b-3b6c-453b-b6ac-79fdf6704918/providers/Microsoft.Authorization/policySetDefinitions/VMPolicySetDefinition_2",
+ "type": "Microsoft.Authorization/policySetDefinitions",
+ "name": "VMPolicySetDefinition_2"
+}
